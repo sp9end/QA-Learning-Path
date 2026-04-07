@@ -1,0 +1,23 @@
+# Python - pliki skompilowane i cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Środowisko wirtualne (bardzo ważne!)
+venv/
+env/
+ENV/
+
+# IDE - ustawienia lokalne VS Code / PyCharm
+.vscode/
+.idea/
+
+# Raporty z testów i logi
+*.log
+reports/
+test-results/
+.pytest_cache/
+
+# Pliki systemowe
+.DS_Store
+Thumbs.db
