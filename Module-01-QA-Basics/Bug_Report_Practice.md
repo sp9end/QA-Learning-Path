@@ -1,8 +1,8 @@
 # Bug Report: Login button is not responding
 
-**ID:** BUG-001
-**Status:** New
-**Severity:** Critical
+**ID:** BUG-001  
+**Status:** New  
+**Severity:** Critical  
 **Priority:** High
 
 ## Description
