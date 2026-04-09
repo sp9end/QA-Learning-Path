@@ -1,10 +1,20 @@
 # QA Automation Learning Journey
 Repozytorium dokumentujące moje postępy w nauce automatyzacji testów w Pythonie.
 
-## Moduł 1: Podstawy QA
-- [x] Konfiguracja środowiska
-- [x] Podstawy HTML/CSS i DevTools
-- [ ] Pierwsze scenariusze testowe (w trakcie)
+## 🛠️ Postępy w nauce
+
+### Moduł 1: Podstawy QA & Web
+- [x] Konfiguracja środowiska (Git, GitHub, VS Code)
+- [x] Podstawy HTML/CSS & DevTools
+- [x] Praktyka lokatorów (SauceDemo)
+- [x] Dokumentacja: Pierwszy Bug Report i Test Cases
+
+### Moduł 2: Python dla Testera
+- [x] Środowisko wirtualne (venv) i instalacja
+- [x] Zmienne i typy danych (skrypt `variables_and_logic.py`)
+- [ ] Instrukcje warunkowe i pętle (w trakcie)
+- [ ] Funkcje i moduły
+- [ ] Praca z plikami (JSON/CSV)
 
 
 ---
