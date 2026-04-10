@@ -12,8 +12,8 @@ Repozytorium dokumentujące moje postępy w nauce automatyzacji testów w Python
 ### Moduł 2: Python dla Testera
 - [x] Środowisko wirtualne (venv) i instalacja
 - [x] Zmienne i typy danych (skrypt `variables_and_logic.py`)
-- [ ] Instrukcje warunkowe i pętle (w trakcie)
-- [ ] Funkcje i moduły
+- [x] Instrukcje warunkowe i pętle 
+- [ ] Funkcje i moduły (w trakcie)
 - [ ] Praca z plikami (JSON/CSV)
 
 
