@@ -13,7 +13,7 @@ Repozytorium dokumentujące moje postępy w nauce automatyzacji testów w Python
 - [x] Środowisko wirtualne (venv) i instalacja
 - [x] Zmienne i typy danych (skrypt `variables_and_logic.py`)
 - [x] Instrukcje warunkowe i pętle 
-- [ ] Funkcje i moduły (w trakcie)
+- [x] Funkcje i moduły (w trakcie)
 - [ ] Praca z plikami (JSON/CSV)
 
 
